@@ -5,13 +5,13 @@
 ![atlantis](https://github.com/Prog-Technique/Atlantis-atv1/assets/100284976/3478a0c8-d044-4c74-a36c-70d8d9f384a5)
   
 <a href="https://www.typescriptlang.org/" target="blank">
-<img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/></a> 
+<img align="center" src="https://img.shields.io/badge/TypeScript-0094DA?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/></a> 
 
 <a href="https://nodejs.org/en/about/" target="blank">
-<img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs"/></a>
+<img align="center" src="https://img.shields.io/badge/Node.js-0094DA?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs"/></a>
 
 <a href="https://code.visualstudio.com/" target="blank">
-<img align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vsc"/></a> 
+<img align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0094DA?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vsc"/></a> 
 
 </div>
 
@@ -58,5 +58,7 @@ npx tsc
 ~~~
 node .\js\teste\index.js
 ~~~
+
+<br>
 
 → [Voltar ao topo](#topo)
